@@ -2,7 +2,7 @@ body {background-color:#ffe8f6}
 table {
   font-family: 'Lucida Bright';
   border-collapse: collapse;
-  width: 65%;
+  margin: 10px 50px 10px 50px;
 }
 td, th {
   border: 1px solid #6e2f52;
@@ -16,7 +16,7 @@ tr:nth-child(odd) {
 div > p {
   font-family: 'Lucida Bright';
   text-align: justify;
-  margin: 15px 20px 10px 20px;
+  margin: 10px 50px 10px 50px;
 }
 h1 {
   position: sticky;
