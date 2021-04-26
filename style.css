@@ -17,7 +17,7 @@ div > p {
   font-family: 'Lucida Bright';
   text-align: justify;
   width: 65%;
-  margin: 25px;
+  margin: 25px 50px 0px 100px;
 }
 h1 {
   position: sticky;
@@ -32,4 +32,10 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #6e2f52;
 }
