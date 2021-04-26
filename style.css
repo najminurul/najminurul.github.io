@@ -3,7 +3,6 @@ table {
   font-family: 'Lucida Bright';
   border-collapse: collapse;
   width: 70%
-  margin-top: 20px;
 }
 td, th {
   border: 1px solid #6e2f52;
@@ -32,6 +31,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 15px;
 }
 .sticky {
   position: sticky;
