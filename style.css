@@ -13,7 +13,7 @@ td, th {
 tr:nth-child(odd) {
   background-color: #dba7b5;
 }
-p {
+div > p {
   font-family: 'Lucida Bright';
   text-align: justify;
   width: 65%;
