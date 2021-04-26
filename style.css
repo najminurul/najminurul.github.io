@@ -17,7 +17,7 @@ div > p {
   font-family: 'Lucida Bright';
   text-align: justify;
   width: 65%;
-  margin: 25px 50px 75px 100px;
+  margin: 25px;
 }
 h1 {
   position: sticky;
