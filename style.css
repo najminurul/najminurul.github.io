@@ -1,6 +1,5 @@
 body {background-color:#ffe8f6}
 table {
-  position: center;
   font-family: 'Lucida Bright';
   border-collapse: collapse;
   width: 65%;
@@ -15,18 +14,22 @@ tr:nth-child(odd) {
   background-color: #dba7b5;
 }
 p {
-  position: center;
   font-family: 'Lucida Bright';
   text-align: justify;
   width: 65%;
+  margin: 25px 50px 75px 100px;
 }
 h1 {
-  position: center sticky;
+  position: sticky;
   font-family: 'Lucida Bright'; 
   color:#301324
 }
 h2 {
-  position: center;
   font-family: 'Lucida Sans Unicode'; 
   color:#6e2f52
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
