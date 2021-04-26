@@ -16,7 +16,7 @@ tr:nth-child(odd) {
 div > p {
   font-family: 'Lucida Bright';
   text-align: justify;
-  margin: 15px 70px 15px 70px;
+  margin: 15px 90px 15px 90px;
 }
 h1 {
   position: sticky;
@@ -31,6 +31,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 20px;
 }
 .sticky {
   position: sticky;
