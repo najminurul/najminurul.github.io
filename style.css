@@ -19,9 +19,10 @@ div > p {
   margin: 15px 200px 15px 200px;
 }
 h1 {
-  position: sticky;
+  margin-top: 75px;
   font-family: 'Lucida Bright'; 
-  color:#301324
+  color:#301324;
+  text-align: center;
 }
 h2 {
   font-family: 'Lucida Sans Unicode'; 
@@ -32,10 +33,4 @@ h2 {
   justify-content: center;
   align-items: center;
   margin-bottom: 15px;
-}
-.sticky {
-  position: sticky;
-  top: 0;
-  background-color: #dba7b5;
-  text-align: center;
 }
